@@ -1,4 +1,8 @@
 First commit
 commit 2
 commit 3
+<<<<<<< HEAD
 commit 4
+=======
+commit 3.1
+>>>>>>> 517c220e8c82f328f6bf275c00c3b15929b84e26
