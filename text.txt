@@ -3,6 +3,11 @@ commit 2
 commit 3
 <<<<<<< HEAD
 commit 4
+<<<<<<< HEAD
 =======
 commit 3.1
 >>>>>>> 517c220e8c82f328f6bf275c00c3b15929b84e26
+=======
+
+commit 5
+>>>>>>> 71cbbdc7eb9433781e9c2ccd0530a387269fc5f4
